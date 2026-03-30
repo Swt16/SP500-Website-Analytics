@@ -6,7 +6,7 @@ In the digital age, traffic alone doesn't guarantee success. This project analyz
 
 ## Project Assets
 * [Technical Presentation (PDF)](https://github.com/Swt16/SP500-Website-Analytics/blob/main/MSIS%20543%20Presentation%20-%20Website%20Analytics.pdf) — *Detailed breakdown of industry benchmarks.*
-* [SQL Scripts](https://github.com/Swt16/SP500-Website-Analytics/blob/main/S&P%20500%20Data%20Query.sql) — *View the Snowflake logic used to clean and cast the data.*
+* [SQL Script](https://github.com/Swt16/SP500-Website-Analytics/blob/main/S&P%20500%20Data%20Query.sql) — *View the Snowflake logic used to clean and cast the data.*
 
 ---
 
@@ -14,7 +14,7 @@ In the digital age, traffic alone doesn't guarantee success. This project analyz
 The raw dataset contained nearly 500 tickers with columns stored as generic strings. I developed a robust SQL pipeline to:
 * **Type Casting:** Converted `varchar` fields into `int`, `double`, and `date` formats for analytical processing.
 * **Feature Engineering:** Calculated mobile vs. desktop engagement ratios.
-* **Data Filtering:** Cleaned the 2018-2022 dataset to focus on full calendar year performance.
+* **Data Filtering:** Cleaned the 2018-2021 dataset to focus on full calendar year performance.
 
 ## Key Analytical Insights
 * **The Engagement Gap:** Identified which S&P 500 sectors (e.g., Tech vs. Energy) command the longest user attention spans.
