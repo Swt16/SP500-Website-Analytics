@@ -6,7 +6,7 @@ This project demonstrates a full-stack data pipeline: extracting raw data from *
 
 ## Dashboard Preview
 ![Dashboard Overview](images/dashboard_overview.png)
-*(View the [Full PDF Report](docs/full_dashboard_report.pdf) for all pages)*
+*(View the [Full PDF Report](https://github.com/Swt16/SP500-Website-Analytics/blob/main/MSIS%20543%20Presentation%20-%20Website%20Analytics.pdf) for all pages)*
 
 ## The Pipeline
 1. **Data Extraction:** Utilized Snowflake (SQL) to aggregate over [X thousand] rows of raw transaction data.
