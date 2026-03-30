@@ -5,7 +5,7 @@
 This project demonstrates a full-stack data pipeline: extracting raw data from **Snowflake**, performing complex transformations in **Excel**, and building an interactive analytical suite in **Power BI**.
 
 ## Dashboard Preview
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](https://github.com/Swt16/SP500-Website-Analytics/blob/main/S%26P%20500%20Companies%20Website%20Visits.pdf)
 *(View the [Full PDF Report](https://github.com/Swt16/SP500-Website-Analytics/blob/main/MSIS%20543%20Presentation%20-%20Website%20Analytics.pdf) for all pages)*
 
 ## The Pipeline
