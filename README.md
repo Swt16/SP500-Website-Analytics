@@ -9,15 +9,14 @@ This project demonstrates a full-stack data pipeline: extracting raw data from *
 *(View the [Full PDF Report](https://github.com/Swt16/SP500-Website-Analytics/blob/main/MSIS%20543%20Presentation%20-%20Website%20Analytics.pdf) for all pages)*
 
 ## The Pipeline
-1. **Data Extraction:** Utilized Snowflake (SQL) to aggregate over [X thousand] rows of raw transaction data.
-2. **Transformation:** Cleaned and modeled data using Power Query and Excel Pivot Tables.
+1. **Data Extraction:** Utilized Snowflake (SQL) to aggregate over 719 thousand rows of raw transaction data.
+2. **Transformation:** Cleaned and modeled data using Power Query and Power BI Tables.
 3. **Visualization:** Developed a Power BI dashboard featuring [mention a specific feature, like "Year-over-Year Growth" or "Regional Heatmaps"].
 
 ## Key Business Metrics
-* **Metric 1:** Description of a key insight found.
-* **Metric 2:** Another insight.
+* **Metric 1:** 
+* **Metric 2:** 
 
 ## Tech Stack
 * **Cloud Warehouse:** Snowflake
 * **BI Tool:** Power BI (DAX, Power Query)
-* **Processing:** Excel (VLOOKUP/Index-Match, Pivot Tables)
