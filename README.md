@@ -11,7 +11,7 @@ This project demonstrates a full-stack data pipeline: extracting raw data from *
 ## The Pipeline
 1. **Data Extraction:** Utilized Snowflake (SQL) to aggregate over 719 thousand rows of raw transaction data.
 2. **Transformation:** Cleaned and modeled data using Power Query and Power BI Tables.
-3. **Visualization:** Developed a Power BI dashboard featuring [mention a specific feature, like "Year-over-Year Growth" or "Regional Heatmaps"].
+3. **Visualization:** Developed a Power BI dashboard...
 
 ## Key Business Metrics
 * **Metric 1:** 
